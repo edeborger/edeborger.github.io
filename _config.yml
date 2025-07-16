@@ -160,6 +160,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - Gemfile
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -175,7 +176,6 @@ exclude:
   - Capfile
   - config
   - Dockerfile
-  - Gemfile
   - Gruntfile.js
   - gulpfile.js
   - LICENSE
