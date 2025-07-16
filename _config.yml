@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-remote_theme: pages-themes/tactile@v0.2.0
+site_theme               : "default"
 title                    : "Emil De Borger The Website"
 title_separator          : "-"
 name                     : &name "Emil De Borger"
