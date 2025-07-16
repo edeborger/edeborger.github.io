@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-theme                    : jekyll-theme-tactile
-title                    : "Your Name / Site Title"
+theme: jekyll-theme-tactile
+title                    : "Emil De Borger The Website"
 title_separator          : "-"
 name                     : &name "Emil De Borger"
 description              : &description "personal description"
