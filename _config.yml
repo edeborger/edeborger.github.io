@@ -160,7 +160,6 @@ include:
   - .htaccess
   - _pages
   - files
-  - Gemfile
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -173,6 +172,7 @@ exclude:
   - assets/js/plugins
   - assets/js/vendor
   - CHANGELOG
+  - Gemfile
   - Capfile
   - config
   - Dockerfile
